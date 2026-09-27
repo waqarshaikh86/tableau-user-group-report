@@ -1,0 +1,12 @@
+# Confidential connection details: never commit
+config.json
+
+# Generated reports
+output/
+*.xlsx
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
