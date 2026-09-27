@@ -1,0 +1,9 @@
+{
+  "server_url": "https://your-pod.online.tableau.com",
+  "site_content_url": "your-site-name",
+  "pat_name": "your-personal-access-token-name",
+  "pat_secret": "your-personal-access-token-secret",
+  "api_version": "3.21",
+  "timezone": "",
+  "output_dir": "output"
+}
